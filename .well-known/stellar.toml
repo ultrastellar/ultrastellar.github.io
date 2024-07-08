@@ -15,7 +15,7 @@ name = "United States Dollar"
 issuer = "GD2BLM5FE37WKPHTKKVA55NUKGNS3UO2LP7K5KOCOMC5I5S6PL7GJPEH"
 is_asset_anchored = false
 display_decimals = 7
-desc="The United States Dollar, often symbolized by the code USD, is the official currency of the United States of America. It is one of the most widely used currencies in the world and is often referred to as the "greenback" due to the signature green color of the bills. The US Dollar is divided into 100 smaller units called cents. It is managed and issued by the Federal Reserve System, which is the central banking system of the United States. The US Dollar is used not only in the United States but also in many other countries around the world as a widely accepted reserve currency for international trade and finance."
+desc="The United States Dollar, often symbolized by the code USD, is the official currency of the United States of America. It is one of the most widely used currencies in the world and is often referred to as the greenback due to the signature green color of the bills. The US Dollar is divided into 100 smaller units called cents. It is managed and issued by the Federal Reserve System, which is the central banking system of the United States. The US Dollar is used not only in the United States but also in many other countries around the world as a widely accepted reserve currency for international trade and finance."
 image="https://ultrastellar.github.io/images/dollar.png"
 conditions="the USD is considered a stable and reliable currency, backed by the strong economy and financial system of the United States."
 
