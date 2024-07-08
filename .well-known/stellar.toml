@@ -35,7 +35,7 @@ name = "Russian Ruble"
 issuer = "GD2BLM5FE37WKPHTKKVA55NUKGNS3UO2LP7K5KOCOMC5I5S6PL7GJPEH"
 is_asset_anchored = false
 display_decimals = 7
-desc="The ruble is the official currency of Russia. It is represented by the symbol "₽" and the currency code "RUB". The ruble is divided into 100 kopeks. It is one of the oldest currencies in the world, with a history dating back to the 14th century. The ruble is issued and regulated by the Central Bank of the Russian Federation."
+desc="The ruble is the official currency of Russia. It is represented by the symbol ₽ and the currency code RUB. The ruble is divided into 100 kopeks. It is one of the oldest currencies in the world, with a history dating back to the 14th century. The ruble is issued and regulated by the Central Bank of the Russian Federation."
 image="https://ultrastellar.github.io/images/ruble.png"
 conditions="International trade rules"
 
